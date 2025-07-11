@@ -1,16 +1,14 @@
 ## Hi there 👋
+# ¡Hola! 👋
 
-<!--
-**Darlina87/Darlina87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ me llamo  Darlin Alejandra  veliz Mamani
 
-Here are some ideas to get you started:
+🎓 Estudio Ingeniería de Sistemas.  
+💻 Me interesa el desarrollo de software y aprender sobre inteligencia artificial.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Frase motivacional:  
+si avanzo seguidme ,si me detengo empujadme,si retrocedo matadme
+CHE GUEVARA
+
+
+
